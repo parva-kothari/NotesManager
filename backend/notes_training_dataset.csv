@@ -1,0 +1,298 @@
+content,category,importance
+Buy plants for home office,personal,0.3
+Stretch for 10 minutes in morning,health,0.4
+Budget review meeting with finance department,work,0.85
+Organize digital photo albums by year,personal,0.4
+Group project presentation slides need formatting,academic,0.6
+Fix critical bug in production environment,work,1.0
+Yoga class at studio tonight 6pm,health,0.6
+Drop off donations at charity center,personal,0.4
+Study linear algebra - eigenvectors and eigenvalues,academic,0.9
+Practice guitar for 30 minutes daily,personal,0.4
+Create family chore schedule,family,0.6
+Refactor legacy codebase for better performance,work,0.8
+Review resumes for marketing manager role,work,0.7
+Book conference room for team workshop,work,0.6
+Practice presentation in front of mirror,academic,0.6
+Pay property tax installment,finance,0.95
+Movie marathon with kids this weekend,family,0.4
+Apply for research assistant position,academic,0.8
+Buy school supplies for new semester,family,0.7
+Listen to personal development podcast,personal,0.3
+Refinance mortgage for lower interest rate,finance,0.75
+Attend career fair at university next Wednesday,academic,0.6
+One-on-one with manager about career growth,work,0.8
+Join IEEE student chapter meeting,academic,0.4
+Take dog to vet for annual checkup,family,0.8
+Calculate net worth quarterly,finance,0.5
+Follow-up appointment with cardiologist,health,0.95
+Track all expenses for the month,finance,0.6
+Office hours with professor about thesis topic,academic,0.8
+Buy dog food and cat litter,family,0.7
+Renew professional certification,work,0.7
+Set up automatic payment for utilities,finance,0.7
+Library book on cognitive psychology due next week,academic,0.4
+Implement OAuth authentication system,work,0.9
+Code review for software engineering project,academic,0.7
+Follow up with vendor on contract renewal,work,0.75
+Request reference letter from previous manager,work,0.6
+Analyze competitor pricing models,work,0.7
+Mentor junior developer on code review process,work,0.6
+Send weekly progress update to stakeholders,work,0.7
+Return Amazon package to UPS store,personal,0.6
+Mow lawn and trim hedges,personal,0.6
+Create monthly budget spreadsheet,finance,0.7
+Client presentation scheduled for next Tuesday,work,0.9
+Therapy session Thursday at 4pm,health,0.85
+Reduce caffeine intake gradually,health,0.5
+Sign and return employment contract,work,0.95
+Swimming laps at community pool,health,0.5
+Refill prescription at pharmacy before running out,health,0.9
+Clean out refrigerator and meal prep,personal,0.6
+Prepare interview questions for data analyst hire,work,0.6
+Register kids for summer camp,family,0.75
+Gym session - leg day workout,health,0.5
+Discuss household budget with partner,family,0.8
+Avoid sugar and processed foods,health,0.6
+Plan summer vacation with entire family,family,0.8
+Debug Python code for web scraping project,academic,0.8
+Check checking account balance,finance,0.4
+Statistics homework due tomorrow - probability distributions,academic,0.95
+Morning run 5km before work,health,0.6
+Help parents with technology issues,family,0.5
+Pack school lunches for children,family,0.7
+Prepare questions for group study session,academic,0.5
+Find 5 peer-reviewed sources on blockchain technology,academic,0.8
+Remember spouse's work presentation day,family,0.5
+Revise manuscript based on reviewer comments,academic,0.9
+Network with industry professionals on LinkedIn,work,0.4
+Consolidate high-interest debts,finance,0.8
+Set up smart home devices,personal,0.4
+Order new checks from bank,finance,0.5
+Schedule pet grooming appointment,family,0.6
+Replace air filters in house,personal,0.5
+Get haircut appointment scheduled,personal,0.5
+Transfer money to savings account,finance,0.7
+Call IT support about laptop issues,work,0.5
+Deploy new website features to production,work,0.9
+Join company Slack channels for projects,work,0.4
+Sort through old clothes for donation,personal,0.3
+Meditate for 10 minutes each morning,personal,0.4
+Lab session for embedded systems programming,academic,0.7
+Update family calendar with everyone's schedules,family,0.7
+Write technical specification document,work,0.85
+Take breaks from computer every hour,health,0.5
+Apply for passport renewal,personal,0.85
+Respond to urgent client email about bug fix,work,0.95
+Watch recorded lecture on quantum mechanics,academic,0.5
+Practice exam questions for organic chemistry,academic,0.85
+Review investment portfolio performance,finance,0.7
+Track steps goal of 10000 daily,health,0.4
+Submit project timeline to stakeholders,work,0.85
+Plan birthday party for son turning 10,family,0.85
+Download course materials from learning portal,academic,0.5
+Take notes during computer vision class,academic,0.6
+File health insurance claim,finance,0.85
+Take photography class at community center,personal,0.5
+Family photo session scheduled next Sunday,family,0.7
+Review and approve team expense reports,work,0.7
+Video call with relatives overseas,family,0.6
+Finish code documentation before code freeze,work,0.8
+Share notes with classmates for missed lecture,academic,0.4
+Annual physical checkup with primary care doctor,health,0.9
+Learn Spanish on Duolingo app,personal,0.5
+Submit insurance premium payment,finance,0.85
+"Buy groceries: milk, eggs, bread, coffee, vegetables",personal,0.7
+Guest lecture on artificial intelligence ethics,academic,0.5
+Take daily multivitamin with breakfast,health,0.5
+Update emergency contact information in HR system,work,0.4
+Remember evening medication at 8pm,health,0.8
+Buy new running shoes at sports store,personal,0.5
+Research new technologies for tech stack upgrade,work,0.6
+Pay off credit card debt using snowball method,finance,0.85
+Review tax refund options,finance,0.6
+Give demo of new product to sales team,work,0.75
+Journal about feelings and emotions,health,0.4
+Shop for birthday gift for best friend,personal,0.8
+Coffee meetup with college roommate,personal,0.6
+Get 8 hours of sleep nightly,health,0.7
+Submit abstract for journal publication,academic,0.9
+Take power nap if feeling tired,health,0.3
+Order vitamin D supplements online,health,0.6
+Learn to bake sourdough bread,personal,0.3
+Eye exam and update prescription glasses,health,0.7
+Negotiate lower cable bill,finance,0.5
+Install MATLAB for signal processing course,academic,0.6
+Walk dog twice daily,family,0.5
+Frame and hang new artwork,personal,0.3
+Team standup meeting at 9:30am every morning,work,0.7
+RSVP to wedding invitation by next week,personal,0.8
+Try new healthy recipe for dinner,health,0.4
+Write blog post for company website,work,0.5
+Write thank you notes for birthday gifts,personal,0.6
+Get car oil change and tire rotation,personal,0.7
+Date night with spouse Friday evening,family,0.7
+Thanksgiving dinner at grandma's house,family,0.8
+Unsubscribe from promotional emails,personal,0.3
+Pick up allergy medication for spring season,health,0.7
+Write 2000-word essay on climate change for environmental science,academic,0.9
+Pick up dry cleaning before Saturday,personal,0.5
+Finish reading current novel,personal,0.3
+Dermatology appointment to check mole,health,0.85
+Purchase stamps at post office,personal,0.4
+Blood work and lab tests ordered,health,0.85
+Family game night every Friday,family,0.5
+Deep clean bathroom and bedroom,personal,0.5
+Reply to HR about benefits enrollment,work,0.6
+Study group meeting for algorithms at library 5pm,academic,0.6
+Draft Q4 marketing strategy presentation,work,0.9
+Schedule appointment with tax accountant,finance,0.85
+Update LinkedIn profile with new position,work,0.5
+Research stocks to add to portfolio,finance,0.6
+Call cable company about billing issue,personal,0.7
+Review all recurring charges on statements,finance,0.7
+Strength training 3 times this week,health,0.6
+Deposit paycheck at bank,finance,0.8
+Complete quarterly sales report by end of week,work,0.95
+Pack nutritious snacks for work,health,0.5
+Create roadmap for next product release,work,0.85
+Practice deep breathing exercises,health,0.4
+Quiz on constitutional law this Friday,academic,0.8
+Meet academic advisor to discuss graduation requirements,academic,0.85
+Run experiments for robotics research,academic,0.85
+Watch new season of favorite TV series,personal,0.2
+File tax return before April deadline,finance,1.0
+Shop for better car insurance rates,finance,0.6
+Sign permission slip for field trip,family,0.8
+Backup all project files to cloud storage,academic,0.7
+Submit timesheet before Monday deadline,work,0.9
+Schedule mammogram screening,health,0.9
+Pay credit card bill before due date,finance,0.9
+Email professor about extension request,academic,0.8
+Watch webinar on cloud architecture best practices,work,0.4
+Go for walk during lunch break,health,0.4
+Make restaurant reservations for anniversary trip,personal,0.75
+Design database schema for capstone project,academic,0.9
+Create family emergency contact list,family,0.8
+Start new watercolor painting project,personal,0.4
+Practice mindfulness meditation 15 minutes,health,0.5
+Complete machine learning assignment on neural networks by Friday,academic,0.9
+Anniversary dinner reservation at fancy restaurant,family,0.9
+Christmas shopping for entire family,family,0.75
+Order new office supplies and equipment,work,0.5
+Research best credit cards for rewards,finance,0.4
+Review life insurance coverage needs,finance,0.7
+Dentist appointment for teeth cleaning Tuesday 2pm,health,0.8
+Complete expense reimbursement form,work,0.6
+Renew student ID card at admin office,academic,0.3
+Department all-hands meeting this afternoon,work,0.6
+Update phone to latest iOS version,personal,0.6
+Rebalance investment allocations,finance,0.75
+Take mental health day from work,health,0.7
+Gather tax documents for filing,finance,0.9
+Review all lecture notes for final exam week,academic,0.95
+Coordinate carpools for kids activities,family,0.7
+Schedule pediatrician checkup for kids,family,0.85
+Create wireframes for mobile app development,academic,0.7
+Spend time in nature for mental wellbeing,health,0.4
+Research paper deadline extended to next Monday,academic,0.7
+Schedule HVAC maintenance appointment,personal,0.6
+Register for next semester courses before deadline,academic,0.95
+Establish bedtime routine - sleep by 10pm,health,0.7
+Try new restaurant downtown,personal,0.4
+Contribute to 401k retirement account,finance,0.8
+Start emergency fund with 3-6 months expenses,finance,0.9
+Pack suitcase for weekend getaway,personal,0.7
+Sprint planning session with development team,work,0.75
+Research hotels in Paris for honeymoon,personal,0.7
+Dinner with friends at new Italian restaurant Friday,personal,0.7
+Text siblings about family reunion plans,family,0.5
+Midterm exam for database systems on Thursday,academic,1.0
+Update project status in management dashboard,work,0.6
+Attend parent-teacher conference Thursday,family,0.9
+Brainstorming session for new product features,work,0.6
+Update resume for internship applications,academic,0.7
+Meet with financial advisor about retirement planning,finance,0.85
+Renew driver's license before expiration,personal,0.9
+Print assignment submission coversheet,academic,0.4
+Organize garage and donate old items,personal,0.4
+Take dad to doctor appointment,family,0.9
+Practice gratitude and positive thinking,health,0.4
+Clear browser history and cache,personal,0.2
+Annotate research papers for tomorrow's seminar,academic,0.7
+Kids soccer practice Saturday 9am at field,family,0.8
+Attend industry conference next month,work,0.6
+Optimize database queries for faster load times,work,0.75
+Skin cancer screening appointment,health,0.8
+Use standing desk for better posture,health,0.5
+Join study Discord server for physics class,academic,0.3
+Set financial goals for next year,finance,0.7
+Email cousin about wedding attendance,family,0.6
+Open high-yield savings account,finance,0.7
+Call mental health helpline if needed,health,0.9
+Attend operating systems lecture at 9am Monday,academic,0.6
+Volunteer for department open house event,academic,0.3
+Conduct reference check for job candidate,work,0.75
+Help daughter with math homework,family,0.75
+Update address with bank,finance,0.6
+Call mom to check on her health,family,0.6
+Avoid screens 1 hour before bedtime,health,0.5
+Make grocery list based on recipes,personal,0.6
+Organize notes by subject in binder,academic,0.4
+Limit alcohol consumption,health,0.6
+Start daily journaling habit,personal,0.5
+Track daily calorie intake in app,health,0.5
+Pay rent by first of month,finance,1.0
+Cancel unused streaming subscriptions,finance,0.6
+Prepare lab report on chemical reactions experiment,academic,0.8
+Organize files in shared drive,work,0.3
+Schedule thesis defense date,academic,0.95
+Attend neighborhood block party,personal,0.4
+Solve calculus problem set chapter 7 questions 1-25,academic,0.8
+Movie night with family this Saturday,personal,0.5
+Set up VPN for remote work access,work,0.6
+Take online certification course on AWS,academic,0.6
+Visit local farmers market Sunday morning,personal,0.3
+Conduct user testing for new dashboard,work,0.7
+Get flu shot at clinic,health,0.7
+Submit financial aid forms by Friday,academic,0.9
+Interview candidate for senior developer position,work,0.85
+Print thesis draft for review,academic,0.6
+Make estimated tax payment,finance,0.95
+Prepare flashcards for biology terminology test,academic,0.7
+Complete mandatory compliance training module,work,0.8
+Rearrange living room furniture,personal,0.2
+Organize family photos into albums,family,0.4
+Book flight tickets for summer vacation,personal,0.8
+Teach kids to cook simple meals,family,0.5
+Make extra payment on student loans,finance,0.8
+Prepare research poster for conference,academic,0.85
+Review peer feedback on group assignment,academic,0.5
+Physical therapy session for knee pain,health,0.8
+Meal prep healthy lunches for work week,health,0.7
+Attend kids school performance,family,0.85
+Join cycling group for weekend ride,health,0.5
+Create vision board for life goals,personal,0.5
+Quarterly review meeting with CEO Friday 2pm,work,0.95
+Participate in hackathon this weekend,academic,0.5
+Review spending categories and adjust,finance,0.65
+Update beneficiaries on insurance policies,finance,0.8
+Literature review for dissertation on NLP,academic,0.9
+Create meal plan for next week,personal,0.5
+Plan romantic weekend getaway,family,0.6
+Drink 8 glasses of water throughout day,health,0.6
+Create estate planning documents,finance,0.8
+Write in gratitude journal before bed,personal,0.3
+Plan surprise birthday party for partner,personal,0.9
+Backup photos to external hard drive,personal,0.7
+Renew parking pass for office garage,work,0.3
+Attend workshop on agile methodologies,work,0.5
+Listen to relaxing music before bed,health,0.3
+Fix leaky kitchen faucet this weekend,personal,0.7
+Help elderly parents with yard work,family,0.6
+Read chapters 10-12 for data structures course,academic,0.7
+Try new HIIT workout routine,health,0.5
+Prepare performance review for direct reports,work,0.9
+Archive old project documentation,work,0.4
+Visit grandparents at nursing home,family,0.7
+Install security updates on work laptop,work,0.7
