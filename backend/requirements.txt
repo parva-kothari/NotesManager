@@ -1,20 +1,20 @@
 # requirements.txt for Backend (Python)
 
 # Flask Web API
-flask==3.0.0
-flask-cors==4.0.0
+flask
+flask-cors
 
 # ML Libraries
-sentence-transformers==2.2.2
-torch==2.1.0
-setfit==1.0.3
-transformers==4.35.0
+sentence-transformers
+torch
+setfit
+transformers
 
 # Data Processing
-pandas==2.1.3
-numpy==1.24.3
-scikit-learn==1.3.2
+pandas
+numpy
+scikit-learn
 
 # Information Retrieval
-rank-bm25==0.2.2
+rank-bm25
 
