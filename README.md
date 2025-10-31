@@ -46,7 +46,9 @@ Look for address starting with `192.168.x.x` or `10.x.x.x`
 
 ### Step 2: Backend Setup
 
-#### 2.1 Create Python virtual environment
+**IMPORTANT: All backend commands run from PROJECT ROOT folder**
+
+#### 2.1 Create Python virtual environment (IN ROOT FOLDER)
 ```bash
 # Windows
 python -m venv venv
@@ -57,46 +59,38 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-#### 2.2 Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-This installs:
-- Flask (web framework)
-- Sentence-BERT (ML embeddings)
-- SetFit (few-shot learning)
-- Transformers (NLP models)
-- PyTorch (deep learning)
-- BM25 (ranking algorithm)
-- Pandas, NumPy, Scikit-learn
-
-#### 2.3 Start Backend Servers
-
-#### Navigate to backend folder
+#### 2.2 Install dependencies (IN ROOT FOLDER, with venv activated)
 ```bash
 cd backend
+pip install -r requirements.txt
+cd ..
 ```
 
-**Terminal 1 - Notes API (Port 5000):**
+#### 2.3 Start Backend Servers (NEED 2 TERMINALS)
+
+**Terminal 1 - Notes API (Port 5000)**
 ```bash
+# From project root
+venv\Scripts\activate        # Windows
+source venv/bin/activate     # macOS/Linux
+
+cd backend
 python app.py
 ```
-You should see:
-```
-Running on http://0.0.0.0:5000
-```
+You should see: `Running on http://0.0.0.0:5000`
 
-**Terminal 2 - Voice API (Port 5001):**
+**Terminal 2 - Voice API (Port 5001)**
 ```bash
+# From project root (open NEW terminal)
+venv\Scripts\activate        # Windows
+source venv/bin/activate     # macOS/Linux
+
+cd backend
 python appvc.py
 ```
-You should see:
-```
-Running on http://0.0.0.0:5001
-```
+You should see: `Running on http://0.0.0.0:5001`
 
-**Keep both terminals open**
+**KEEP BOTH TERMINALS RUNNING!**
 
 ---
 
@@ -197,7 +191,7 @@ To open this app with Expo Go, scan the QR code below
 
 ---
 
-### Development Build (for testing on real devices)
+### Development Build (for testing on real devices `{Step 4}`)
 
 
 ```bash
@@ -227,5 +221,38 @@ npx expo start --dev-client
 Then scan the new QR code with your custom app (not Expo Go).
 
 
+
+---
+## Troubleshooting
+
+### General Issues
+
+**Problem: App not connecting to `localhost:8081`**
+
+- Ensure phone and computer on same Wi-Fi network
+
+- Disable VPN on both devices
+
+- Check firewall isn't blocking connections
+- Manually enter the URL in app as `MACHINE_IP:8081` (ex: 192.168.193.158:8081 here)
+### Voice Recognition Issues
+
+**Problem: Voice commands not working**
+- **Solution 1**: Grant microphone permission on Android
+  - Go to Settings → Apps → Expo Go → Permissions
+  - Enable Microphone permission
+  
+- **Solution 2**: Speak clearly and close to phone microphone
+
+- **Solution 3**: Check if voice API is running (Terminal 2 should show Port 5001)
+
+**Problem: "Microphone permission denied"**
+- Android: Settings → Apps → Expo Go → Permissions → Microphone → Allow
+- iOS: Settings → Privacy → Microphone → Expo Go → Enable
+
+**Problem: Voice recognized but command not executed**
+- Check Terminal 2 for error messages
+- Verify voice API is running on port 5001
+- Try simpler commands: "Add milk" or "Remove eggs"
 
 ---
